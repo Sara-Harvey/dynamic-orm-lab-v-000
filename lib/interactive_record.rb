@@ -8,6 +8,4 @@ require 'active_support/inflector'
   end
   
   
-  
-  
 end
