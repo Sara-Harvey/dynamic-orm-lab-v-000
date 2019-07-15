@@ -7,3 +7,4 @@ class Student < InteractiveRecord
     attr_accessor col_name.to_sym
   end
 end
+
